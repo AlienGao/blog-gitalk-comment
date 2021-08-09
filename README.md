@@ -1,1 +1,1 @@
-# blog-gitalk-comment
+博客: https://aliengao.github.io/palestInk/
